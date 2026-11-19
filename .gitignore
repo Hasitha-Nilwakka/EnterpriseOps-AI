@@ -1,0 +1,12 @@
+# Environment and secrets
+.env
+.venv/
+venv/
+node_modules
+
+#OS & editor files
+.DS_Store
+.vscode/
+__pycache__/
+
+
